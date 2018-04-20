@@ -1,6 +1,6 @@
-# **MECH 105 Algorithms**
+# _**MECH 105 Algorithms**_
 
-## Summary of Repository
+## **Summary of Repository**
 This repository contains algorithms developed in class for MECH 105: Mechanical Engineering Problem Solving
 
 ## Days Elapsed Function
