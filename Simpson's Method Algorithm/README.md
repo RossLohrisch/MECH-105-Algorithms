@@ -11,7 +11,7 @@ This function calculates the integral of experimental data using the Simpson's 1
 
 **I** - This output represents the calculated integral value using the Simpsons 1/3 rule (combined with trapezoidal if odd number of intervals)
 
-# Limitations
+# Limitations:
 
 Each interval must be of the same length for this function to work (x values are evenly spaced
 
