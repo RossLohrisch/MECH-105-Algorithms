@@ -13,7 +13,7 @@ This function estimats the root of a given function using the false position num
  
 **maxiter** - This input represents the maximum number of iterations the user desires 
 
-#Outputs
+# Outputs
 
 **root** - This output represents the estimated root location
 
