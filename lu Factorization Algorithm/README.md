@@ -15,6 +15,6 @@ This function performs the LU factorization of a square matrix given the input o
 
 # Limitations: 
 
-A square matrix must be input (number of columns = number of rows)
+Square matrix must be input (number of columns = number of rows)
 
 Divisions by zero are avoided in factorization through pivoting
