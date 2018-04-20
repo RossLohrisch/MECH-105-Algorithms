@@ -1,4 +1,4 @@
-# **Mech 105 Agorithms**
+# **MECH 105 Algorithms**
 
 ## Summary of Repository
 This repository contains algorithms developed in class for MECH 105: Mechanical Engineering Problem Solving
