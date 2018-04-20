@@ -1,7 +1,7 @@
-# **Function Description** 
+# Function Description:
 This function estimats the root of a given function using the false position numerical method
 
-# Inputs
+# Inputs:
 
 **func** - This input is the symbolic function for which the root will be found for
 
@@ -13,7 +13,7 @@ This function estimats the root of a given function using the false position num
  
 **maxiter** - This input represents the maximum number of iterations the user desires 
 
-# Outputs
+# Outputs:
 
 **root** - This output represents the estimated root location
 
