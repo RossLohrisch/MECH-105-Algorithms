@@ -2,7 +2,6 @@
 
 ## **Summary of Repository**
 This repository contains algorithms developed in class for MECH 105: Mechanical Engineering Problem Solving
-
 ## Days Elapsed Function
 This function determines the number of elapsed days since the beginning of a given year given some date during the year
 ## False Position Function
